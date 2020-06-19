@@ -1,2 +1,0 @@
-# arthurtest
-sample for testing
